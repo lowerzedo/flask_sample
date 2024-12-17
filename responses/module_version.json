@@ -1,0 +1,36 @@
+[
+  {
+    "module": {
+      "cluster": "FDN",
+      "code": "ABUS008-4-1-EAP",
+      "title": "English for Academic Purposes"
+    },
+    "versions": [
+      {
+        "version": "VE1",
+        "effective_date": "Thu, 19 Sep 2019 16:00:00 GMT"
+      },
+      {
+        "version": "VD1",
+        "effective_date": "Thu, 30 Sep 202o 16:00:00 GMT"
+      }
+    ]
+  },
+  {
+    "module": {
+      "cluster": "FDN",
+      "code": "ABUS002-4-1-MBUS",
+      "title": "Managing Business"
+    },
+    "versions": [
+      {
+        "version": "VE1",
+        "effective_date": "Thu, 19 Sep 2019 16:00:00 GMT"
+      },
+      {
+        "version": "VD1",
+        "effective_date": "Thu, 30 Sep 202o 16:00:00 GMT"
+      }
+    ]
+  }
+]

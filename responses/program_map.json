@@ -1,0 +1,2503 @@
+[
+  {
+    "effective_date": "Thu, 27 Feb 2020 16:00:00 GMT",
+    "id": 64,
+    "programme": {
+      "code": "ACC",
+      "school": null,
+      "title": "Diploma in Accounting"
+    },
+    "programme_leader": "kavitha",
+    "version": 1,
+    "levels": [
+      {
+        "level": 1,
+        "semesters": [
+          {
+            "modules": [
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50G50",
+                  "can_be_edited": false,
+                  "credit": 160,
+                  "effective_date": "Thu, 19 Sep 2019 16:00:00 GMT",
+                  "id": 197,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 24,
+                  "module": {
+                    "cluster": "FDN",
+                    "code": "ABUS008-4-1-EAP",
+                    "title": "English for Academic Purposes"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 24,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50P30PN20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sat, 31 Aug 2019 16:00:00 GMT",
+                  "id": 285,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "FDN",
+                    "code": "ABUS009-4-1-FEP",
+                    "title": "Fundamentals of Entrepreneurship"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "N/A",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50G30T20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Thu, 19 Sep 2019 16:00:00 GMT",
+                  "id": 184,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 38,
+                  "module": {
+                    "cluster": "FDN",
+                    "code": "ABUS002-4-1-MBUS",
+                    "title": "Managing Business"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "N/A",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 18,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "I50Q50",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Thu, 19 Sep 2019 16:00:00 GMT",
+                  "id": 242,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "TM",
+                    "code": "AICT003-4-1-PITS",
+                    "title": "Practical IT Skills"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "G70I30",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 98,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 22,
+                  "module": {
+                    "cluster": null,
+                    "code": "MPU2163-MLY2",
+                    "title": "Malaysian Studies 2"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 20,
+                  "version": "VD1"
+                }
+              }
+            ],
+            "semester": 1,
+            "week": 17
+          },
+          {
+            "modules": [
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "G50I30T20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sat, 31 Aug 2019 16:00:00 GMT",
+                  "id": 280,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "FDN",
+                    "code": "ABUS007-4-1-ARS",
+                    "title": "Academic Research Skills"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "None",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "PO70T30",
+                  "can_be_edited": false,
+                  "credit": 2,
+                  "effective_date": "Sat, 31 Aug 2019 16:00:00 GMT",
+                  "id": 190,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 12,
+                  "module": {
+                    "cluster": "FDN",
+                    "code": "MPU2222-PRCOM",
+                    "title": "Professional Communications"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "NONE",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 30,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "G70I30",
+                  "can_be_edited": false,
+                  "credit": 2,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 86,
+                  "lab_practical_hour_per_week": 6,
+                  "lecture_hour_per_week": 4,
+                  "module": {
+                    "cluster": "SGS",
+                    "code": "MPU2412-CC1",
+                    "title": "Co-Curricular 1"
+                  },
+                  "other_hour_per_week": 4,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 3,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60I40",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 318,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS002-4-1-FA1",
+                    "title": "Financial Accounting 1"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E40Q35T25",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sat, 31 Aug 2019 16:00:00 GMT",
+                  "id": 314,
+                  "lab_practical_hour_per_week": 8,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "QST",
+                    "code": "AAQS005-4-1-QM",
+                    "title": "Quantitative Methods"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "Microsoft Excel",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 20,
+                  "version": "VD1-OLD"
+                }
+              }
+            ],
+            "semester": 2,
+            "week": 17
+          },
+          {
+            "modules": [
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E40Q35T25",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sat, 31 Aug 2019 16:00:00 GMT",
+                  "id": 37,
+                  "lab_practical_hour_per_week": 8,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "QST",
+                    "code": "AAQS004-4-2-BSTAT",
+                    "title": "Business Statistics"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "MICROSOFT EXCEL",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 20,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50G30PN20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 224,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "MEE",
+                    "code": "ABUS013-4-2-MKT",
+                    "title": "Marketing"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "Lecture and tutorial for this module will be conducted in the classroom. The module will not require other special requirement.",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50PN15RT35",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 100,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "LEIR",
+                    "code": "ABUS003-4-2-BECON",
+                    "title": "Business Economics"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "None ",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD 1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50I30T20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 319,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS003-4-1-FA2",
+                    "title": "Financial Accounting 2"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              }
+            ],
+            "semester": 3,
+            "week": 17
+          },
+          {
+            "modules": [
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60EY25PN15",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 102,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "LEIR",
+                    "code": "ABUS026-4-2-BLW",
+                    "title": "Business Law"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "None",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60P20T20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 320,
+                  "lab_practical_hour_per_week": 4,
+                  "lecture_hour_per_week": 26,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS001-4-1-AIS",
+                    "title": "Accounting Information Systems"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "UBS Software",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 24,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50P30T20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 328,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS013-4-2-SMT",
+                    "title": "Spreadsheet Modelling Techniques"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50I30T20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 321,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS007-4-2-FA3",
+                    "title": "Financial Accounting 3"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50P50",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 322,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS011-4-2-PF",
+                    "title": "Principles of Finance"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              }
+            ],
+            "semester": 4,
+            "week": 17
+          },
+          {
+            "modules": [
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50I25T25",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 55,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS003-4-2-BTAX",
+                    "title": "Basic Taxation"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50I30T20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 326,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS002-4-2-ACS",
+                    "title": "Audit and Control System"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50G40PN10",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 329,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS017-4-2-IF",
+                    "title": "Islamic Finance"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50I30T20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 327,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS005-4-2-CA",
+                    "title": "Cost Accounting"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "NA",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50I30T20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 433,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS008-4-2-FA4",
+                    "title": "Financial Accounting 4"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              }
+            ],
+            "semester": 5,
+            "week": 17
+          }
+        ]
+      }
+    ],
+
+    "programme_learning_outcomes": [
+      {
+        "description": "Explain the role of accounting in an organization and related field in every industry worldwide",
+        "id": 21488,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Knowledge and Understanding",
+            "id": 10
+          }
+        ]
+      },
+      {
+        "description": "Prepare full set of accounts for sole proprietorship, partnership and companies; costing and management accounting information; and assist in preparation of tax returns, audit process and finance functions. ",
+        "id": 21489,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Cognitive Skills",
+            "id": 11
+          }
+        ]
+      },
+      {
+        "description": "Identify financial and non-financial information in assisting decision making process.",
+        "id": 21490,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Practical Skills",
+            "id": 12
+          }
+        ]
+      },
+      {
+        "description": "Develop an effective interactive skills among professional peers and subordinates.",
+        "id": 21491,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Interpersonal Skills",
+            "id": 13
+          }
+        ]
+      },
+      {
+        "description": "Communicate effectively both in written and spoken form with colleague, other professionals and community.",
+        "id": 21492,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Communication Skills",
+            "id": 14
+          }
+        ]
+      },
+      {
+        "description": "Apply information technology for recording accounting information; and engage in life-long learning.",
+        "id": 21493,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Digital Skills",
+            "id": 15
+          }
+        ]
+      },
+      {
+        "description": "Demonstrate skills to identify financial information in assisting decision making process.",
+        "id": 21494,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Numeracy Skills",
+            "id": 16
+          }
+        ]
+      },
+      {
+        "description": "Develop soft-skills for self-development in terms of independent and intellectual learning for career development. ",
+        "id": 21495,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Personal Skills",
+            "id": 18
+          }
+        ]
+      },
+      {
+        "description": "Practice managerial skills in decision making and engage in entrepreneurial activities.",
+        "id": 21496,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Entrepreneurial Skills",
+            "id": 19
+          }
+        ]
+      },
+      {
+        "description": "Develop the exercise of professional skills and responsibilities: integrity, professional conduct (professionalism) and standards of conduct.",
+        "id": 21497,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Ethics and Professionalism",
+            "id": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "effective_date": "Tue, 31 Mar 2020 16:00:00 GMT",
+    "id": 131,
+    "levels": [
+      {
+        "level": 1,
+        "semesters": [
+          {
+            "modules": [
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60I20T20",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 09 Feb 2020 16:00:00 GMT",
+                  "id": 959,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ012-3-1-FA1",
+                    "title": "Financial Accounting 1"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 14,
+                  "version": "VD1.1 - AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50I30T20",
+                  "can_be_edited": false,
+                  "credit": 2,
+                  "effective_date": "Sun, 09 Feb 2020 16:00:00 GMT",
+                  "id": 1148,
+                  "lab_practical_hour_per_week": 6,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ029-2-1-AIS",
+                    "title": "Accounting Information System"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "ACCOUNTING SOFTWARE eg UBS,SQL",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 8,
+                  "version": "VD1-AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50G30I20",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 03 May 2020 16:00:00 GMT",
+                  "id": 799,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "MOR",
+                    "code": "BM007-3-1-IMT",
+                    "title": "Introduction to Management"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 14,
+                  "version": "VD1-AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50G50",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 03 May 2020 16:00:00 GMT",
+                  "id": 798,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "MOR",
+                    "code": "BM035-3-1-FEP",
+                    "title": "Fundamentals of Entrepreneurship"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "None",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 14,
+                  "version": "VD1-AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "EY40G30I10PN20",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 29 Mar 2020 16:00:00 GMT",
+                  "id": 656,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "MTS",
+                    "code": "BM004-3-1-BCS",
+                    "title": "Business And Communications Skills"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "None",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 14,
+                  "version": "VD1 - AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E40Q35T25",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Thu, 19 Sep 2019 16:00:00 GMT",
+                  "id": 277,
+                  "lab_practical_hour_per_week": 3,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "QST",
+                    "code": "AQ022-3-1-QSS",
+                    "title": "Quantitative Skills"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "Microsoft Excel",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 11,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": true,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "G70T30",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 835,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 42,
+                  "module": {
+                    "cluster": "SGS",
+                    "code": "MPU3113-HE",
+                    "title": "Ethnic Relations"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 0,
+                  "version": "VD1-AA"
+                }
+              },
+              {
+                "is_elective": true,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "G60I40",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 31 May 2020 16:00:00 GMT",
+                  "id": 1026,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 20,
+                  "module": {
+                    "cluster": null,
+                    "code": "MPU3173-MLY3",
+                    "title": "Malaysian Studies 3"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 22,
+                  "version": "VD1-AA"
+                }
+              }
+            ],
+            "semester": 1,
+            "week": 14
+          },
+          {
+            "modules": [
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60I20T20",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 09 Feb 2020 16:00:00 GMT",
+                  "id": 961,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ013-3-1-FA2",
+                    "title": "Financial Accounting 2"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 14,
+                  "version": "VD1.1 - AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50G30I20",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 894,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ025-3-1-EFT",
+                    "title": "Essentials of FinTech"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 14,
+                  "version": "VD1 - AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60PN15RT25",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 750,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "LEIR",
+                    "code": "BM018-3-1-BLW",
+                    "title": "Business Law"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "None.",
+                  "synopsis": "NILL",
+                  "tutorial_hour_per_week": 14,
+                  "version": "VD1-AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50G30PN20",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 1310,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "MEE",
+                    "code": "BM012-3-1-MKG",
+                    "title": "Marketing"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "Lecture and tutorial for this module will be conducted in the classroom. The module will not require other special requirement.",
+                  "synopsis": "This module provides students with core concepts of the marketing function of a business in today\u2019s business world. It introduces the marketing mix concept and elementary understanding on customer needs and behaviour in managing effectively in the global m",
+                  "tutorial_hour_per_week": 14,
+                  "version": "VD1-AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50PN15RT35",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 749,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "LEIR",
+                    "code": "BM002-3-1-BES",
+                    "title": "Business Economics"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "None. ",
+                  "synopsis": "NIL",
+                  "tutorial_hour_per_week": 14,
+                  "version": "VD 1-AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "G80I20",
+                  "can_be_edited": false,
+                  "credit": 2,
+                  "effective_date": "Fri, 03 Jan 2020 16:00:00 GMT",
+                  "id": 836,
+                  "lab_practical_hour_per_week": 6,
+                  "lecture_hour_per_week": 4,
+                  "module": {
+                    "cluster": "SGS",
+                    "code": "MPU3412-CC2",
+                    "title": "Co-Curricular 2"
+                  },
+                  "other_hour_per_week": 4,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 3,
+                  "version": "VD1-AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "G70I30",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 31 May 2020 16:00:00 GMT",
+                  "id": 1025,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 13,
+                  "module": {
+                    "cluster": "SGS",
+                    "code": "MPU3123-TITAS",
+                    "title": "Islamic Civilisation and Asian Civilisation"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 29,
+                  "version": "VD1-AA1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "G40I60",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 31 May 2020 16:00:00 GMT",
+                  "id": 1024,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 18,
+                  "module": {
+                    "cluster": null,
+                    "code": "MPU3143-BMK2",
+                    "title": "Bahasa Melayu Komunikasi 2"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 24,
+                  "version": "VD1-AA1"
+                }
+              }
+            ],
+            "semester": 2,
+            "week": 14
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "semesters": [
+          {
+            "modules": [
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60I20T20",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sat, 31 Aug 2019 16:00:00 GMT",
+                  "id": 902,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ054-3-2-AFA",
+                    "title": "Advanced Financial Accounting"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1 - AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60I20T20",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 03 May 2020 16:00:00 GMT",
+                  "id": 965,
+                  "lab_practical_hour_per_week": 14,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ057-3-2-CMAC",
+                    "title": "Cost and Management Accounting"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "SQL",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 14,
+                  "version": "VD1 - AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60I20T20",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sat, 31 Aug 2019 16:00:00 GMT",
+                  "id": 969,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ059-3-2-ITAX",
+                    "title": "Introduction To Taxation"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1 - AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60I20T20",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sat, 31 Aug 2019 16:00:00 GMT",
+                  "id": 766,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ058-3-2-FMGT",
+                    "title": "Financial Management"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1 - AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E30T70",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sat, 31 Aug 2019 16:00:00 GMT",
+                  "id": 814,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "TM",
+                    "code": "CT104-3-2-IBPSES",
+                    "title": "Integrated Business Processes with SAP ERP System"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "Windows OS machine with the latest SAP ERP software & Internet connection",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1-AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60I30PN10",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sat, 31 Aug 2019 16:00:00 GMT",
+                  "id": 955,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ055-3-2-AAS",
+                    "title": "Auditing and Assurance"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1 - AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "G70I30",
+                  "can_be_edited": false,
+                  "credit": 2,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 73,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 12,
+                  "module": {
+                    "cluster": "SGS",
+                    "code": "MPU3272-WPCS",
+                    "title": "Workplace Professional Communication Skills"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 17,
+                  "version": "VD1"
+                }
+              }
+            ],
+            "semester": 1,
+            "week": 14
+          },
+          {
+            "modules": [
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60I20T20",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 771,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ056-3-2-CRPT",
+                    "title": "Corporate Reporting"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1 - AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60P30PN10",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 773,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ053-3-2-AAD",
+                    "title": "Advanced Auditing"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1-AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60I30T10",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 772,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ060-3-2-MAT",
+                    "title": "Management Accounting Techniques"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "Nil",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1-AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "P50PN20T30",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 382,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": "MOR",
+                    "code": "BM070-3-2-BRSM",
+                    "title": "Business Research Methods"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "None",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E70I20PO10",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 813,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": "LEIR",
+                    "code": "BM054-3-2-CLW",
+                    "title": "Company Law"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "None.",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 14,
+                  "version": "VD1-AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60I30PN10",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 767,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ061-3-2-SSA",
+                    "title": "Strategic and Sustainable Accounting"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1 - AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "G100",
+                  "can_be_edited": false,
+                  "credit": 2,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 616,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 12,
+                  "module": {
+                    "cluster": "SGS",
+                    "code": "MPU3362-EET",
+                    "title": "Employee and Employment Trends"
+                  },
+                  "other_hour_per_week": 4,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 12,
+                  "version": "VD1 - AA"
+                }
+              }
+            ],
+            "semester": 2,
+            "week": 14
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "semesters": [
+          {
+            "modules": [
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60P20T20",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Thu, 14 Nov 2019 16:00:00 GMT",
+                  "id": 935,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ065-3-3-ECG",
+                    "title": "Ethics and Corporate Governance"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1 - AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50I25T25",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Thu, 14 Nov 2019 16:00:00 GMT",
+                  "id": 892,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ064-3-3-CFIN",
+                    "title": "Corporate Finance"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1-AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60P30PN10",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Thu, 14 Nov 2019 16:00:00 GMT",
+                  "id": 937,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ067-3-3-FRM",
+                    "title": "Financial Risk Management"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1 - AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60I30PN10",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Thu, 14 Nov 2019 16:00:00 GMT",
+                  "id": 934,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ062-3-3-ATAX",
+                    "title": "Advanced Taxation"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "Nil",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1 - AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60P30PN10",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Thu, 14 Nov 2019 16:00:00 GMT",
+                  "id": 936,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ070-3-3-SMA",
+                    "title": "Strategic Management Accounting"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "Nil",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1-AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "EY100",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Thu, 14 Nov 2019 16:00:00 GMT",
+                  "id": 421,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 0,
+                  "module": {
+                    "cluster": null,
+                    "code": "BM038-3-3-INV",
+                    "title": "Investigations"
+                  },
+                  "other_hour_per_week": 36,
+                  "software_requirements": "None",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 0,
+                  "version": "VD1"
+                }
+              }
+            ],
+            "semester": 1,
+            "week": 14
+          },
+          {
+            "modules": [
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60P40",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 905,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ063-3-3-BAS",
+                    "title": "Business Analysis"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1 - AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60I20P20",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 943,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ069-3-3-PA",
+                    "title": "Public Sector Accounting"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1 - AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60I30PN10",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 940,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AQ068-3-3-FOACC",
+                    "title": "Forensic Accounting"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "Nil",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1 - AA"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50P30T20",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 942,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 14,
+                  "module": {
+                    "cluster": null,
+                    "code": "AQ066-3-3-FMDL",
+                    "title": "Financial Modelling"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "Excel Application",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1 - AA"
+                }
+              }
+            ],
+            "semester": 2,
+            "week": 14
+          }
+        ]
+      }
+    ],
+    "programme": {
+      "code": "APU-AF",
+      "school": null,
+      "title": "BA (Hons) in Accounting and Finance"
+    },
+    "programme_leader": "suresh.balasingam",
+    "programme_learning_outcomes": [
+      {
+        "description": "Describe accounting concepts and principles and also other reporting standards",
+        "id": 11272,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Knowledge and Understanding",
+            "id": 10
+          }
+        ]
+      },
+      {
+        "description": "Apply critical and evaluation skills to resolve accounting complex problem",
+        "id": 11273,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Cognitive Skills",
+            "id": 11
+          }
+        ]
+      },
+      {
+        "description": "Perform financial statements and internal reports that comply with approved standards and provide tax, audit and other accounting-related services",
+        "id": 11274,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Practical Skills",
+            "id": 12
+          }
+        ]
+      },
+      {
+        "description": "Perform their duties in a team and are able to solve problems associated with group work such as conflict, motivation and contribution",
+        "id": 11275,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Interpersonal Skills",
+            "id": 13
+          }
+        ]
+      },
+      {
+        "description": "Relate ideas, information and arguments in a variety of forms through the presentation, to specialist and non-specialist audiences and deploy techniques of the discipline effectively.",
+        "id": 11276,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Communication Skills",
+            "id": 14
+          }
+        ]
+      },
+      {
+        "description": "Demonstrate competency to use various types of digital application ethically and propose data-driven solutions",
+        "id": 11277,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Digital Skills",
+            "id": 15
+          }
+        ]
+      },
+      {
+        "description": "Propose solutions for financial and accounting problems by using numerical techniques",
+        "id": 11278,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Numeracy Skills",
+            "id": 16
+          }
+        ]
+      },
+      {
+        "description": "Demonstrate decision-making capacities, accountabilities and leadership towards professional development and continuous improvement in knowledge acquisition to face global challenges",
+        "id": 11279,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Leadership, Autonomy and Responsibility",
+            "id": 17
+          }
+        ]
+      },
+      {
+        "description": "Integrate effectively in self-directed learning and development of a career-long attitude of continuing professional development",
+        "id": 11280,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Personal Skills",
+            "id": 18
+          }
+        ]
+      },
+      {
+        "description": "Perform entrepreneurial skills in assessing the national and international impact of accounting on different industries.",
+        "id": 11281,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Entrepreneurial Skills",
+            "id": 19
+          }
+        ]
+      },
+      {
+        "description": "Demonstrate positive values, ethics and accountability with professional skepticism in engaging with society and stakeholders",
+        "id": 11282,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Ethics and Professionalism",
+            "id": 20
+          }
+        ]
+      }
+    ],
+    "version": 3
+  },
+  {
+    "effective_date": "Thu, 27 Feb 2020 16:00:00 GMT",
+    "id": 64,
+    "levels": [
+      {
+        "level": 1,
+        "semesters": [
+          {
+            "modules": [
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50G50",
+                  "can_be_edited": false,
+                  "credit": 160,
+                  "effective_date": "Thu, 19 Sep 2019 16:00:00 GMT",
+                  "id": 197,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 24,
+                  "module": {
+                    "cluster": "FDN",
+                    "code": "ABUS008-4-1-EAP",
+                    "title": "English for Academic Purposes"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 24,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50P30PN20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sat, 31 Aug 2019 16:00:00 GMT",
+                  "id": 285,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "FDN",
+                    "code": "ABUS009-4-1-FEP",
+                    "title": "Fundamentals of Entrepreneurship"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "N/A",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50G30T20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Thu, 19 Sep 2019 16:00:00 GMT",
+                  "id": 184,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 38,
+                  "module": {
+                    "cluster": "FDN",
+                    "code": "ABUS002-4-1-MBUS",
+                    "title": "Managing Business"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "N/A",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 18,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "I50Q50",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Thu, 19 Sep 2019 16:00:00 GMT",
+                  "id": 242,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "TM",
+                    "code": "AICT003-4-1-PITS",
+                    "title": "Practical IT Skills"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "G70I30",
+                  "can_be_edited": false,
+                  "credit": 3,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 98,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 22,
+                  "module": {
+                    "cluster": null,
+                    "code": "MPU2163-MLY2",
+                    "title": "Malaysian Studies 2"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 20,
+                  "version": "VD1"
+                }
+              }
+            ],
+            "semester": 1,
+            "week": 17
+          },
+          {
+            "modules": [
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "G50I30T20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sat, 31 Aug 2019 16:00:00 GMT",
+                  "id": 280,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "FDN",
+                    "code": "ABUS007-4-1-ARS",
+                    "title": "Academic Research Skills"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "None",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "PO70T30",
+                  "can_be_edited": false,
+                  "credit": 2,
+                  "effective_date": "Sat, 31 Aug 2019 16:00:00 GMT",
+                  "id": 190,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 12,
+                  "module": {
+                    "cluster": "FDN",
+                    "code": "MPU2222-PRCOM",
+                    "title": "Professional Communications"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "NONE",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 30,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "G70I30",
+                  "can_be_edited": false,
+                  "credit": 2,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 86,
+                  "lab_practical_hour_per_week": 6,
+                  "lecture_hour_per_week": 4,
+                  "module": {
+                    "cluster": "SGS",
+                    "code": "MPU2412-CC1",
+                    "title": "Co-Curricular 1"
+                  },
+                  "other_hour_per_week": 4,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 3,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60I40",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 318,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS002-4-1-FA1",
+                    "title": "Financial Accounting 1"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E40Q35T25",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sat, 31 Aug 2019 16:00:00 GMT",
+                  "id": 314,
+                  "lab_practical_hour_per_week": 8,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "QST",
+                    "code": "AAQS005-4-1-QM",
+                    "title": "Quantitative Methods"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "Microsoft Excel",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 20,
+                  "version": "VD1-OLD"
+                }
+              }
+            ],
+            "semester": 2,
+            "week": 17
+          },
+          {
+            "modules": [
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E40Q35T25",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sat, 31 Aug 2019 16:00:00 GMT",
+                  "id": 37,
+                  "lab_practical_hour_per_week": 8,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "QST",
+                    "code": "AAQS004-4-2-BSTAT",
+                    "title": "Business Statistics"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "MICROSOFT EXCEL",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 20,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50G30PN20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 224,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "MEE",
+                    "code": "ABUS013-4-2-MKT",
+                    "title": "Marketing"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "Lecture and tutorial for this module will be conducted in the classroom. The module will not require other special requirement.",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50PN15RT35",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 100,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "LEIR",
+                    "code": "ABUS003-4-2-BECON",
+                    "title": "Business Economics"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "None ",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD 1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50I30T20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 319,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS003-4-1-FA2",
+                    "title": "Financial Accounting 2"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              }
+            ],
+            "semester": 3,
+            "week": 17
+          },
+          {
+            "modules": [
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60EY25PN15",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 102,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "LEIR",
+                    "code": "ABUS026-4-2-BLW",
+                    "title": "Business Law"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "None",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E60P20T20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 320,
+                  "lab_practical_hour_per_week": 4,
+                  "lecture_hour_per_week": 26,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS001-4-1-AIS",
+                    "title": "Accounting Information Systems"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "UBS Software",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 24,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50P30T20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 328,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS013-4-2-SMT",
+                    "title": "Spreadsheet Modelling Techniques"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50I30T20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 321,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS007-4-2-FA3",
+                    "title": "Financial Accounting 3"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50P50",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 322,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS011-4-2-PF",
+                    "title": "Principles of Finance"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              }
+            ],
+            "semester": 4,
+            "week": 17
+          },
+          {
+            "modules": [
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50I25T25",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 55,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS003-4-2-BTAX",
+                    "title": "Basic Taxation"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50I30T20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 326,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS002-4-2-ACS",
+                    "title": "Audit and Control System"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50G40PN10",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 329,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS017-4-2-IF",
+                    "title": "Islamic Finance"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50I30T20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 327,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS005-4-2-CA",
+                    "title": "Cost Accounting"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "NA",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              },
+              {
+                "is_elective": false,
+                "module_version": {
+                  "academicians": [],
+                  "assessment_scheme_code": "E50I30T20",
+                  "can_be_edited": false,
+                  "credit": 4,
+                  "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+                  "id": 433,
+                  "lab_practical_hour_per_week": 0,
+                  "lecture_hour_per_week": 28,
+                  "module": {
+                    "cluster": "SAF",
+                    "code": "AAQS008-4-2-FA4",
+                    "title": "Financial Accounting 4"
+                  },
+                  "other_hour_per_week": 0,
+                  "software_requirements": "",
+                  "synopsis": null,
+                  "tutorial_hour_per_week": 28,
+                  "version": "VD1"
+                }
+              }
+            ],
+            "semester": 5,
+            "week": 17
+          }
+        ]
+      }
+    ],
+    "programme": {
+      "code": "ACC",
+      "school": null,
+      "title": "Diploma in Accounting"
+    },
+    "programme_leader": "kavitha",
+    "programme_learning_outcomes": [
+      {
+        "description": "Explain the role of accounting in an organization and related field in every industry worldwide",
+        "id": 21488,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Knowledge and Understanding",
+            "id": 10
+          }
+        ]
+      },
+      {
+        "description": "Prepare full set of accounts for sole proprietorship, partnership and companies; costing and management accounting information; and assist in preparation of tax returns, audit process and finance functions. ",
+        "id": 21489,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Cognitive Skills",
+            "id": 11
+          }
+        ]
+      },
+      {
+        "description": "Identify financial and non-financial information in assisting decision making process.",
+        "id": 21490,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Practical Skills",
+            "id": 12
+          }
+        ]
+      },
+      {
+        "description": "Develop an effective interactive skills among professional peers and subordinates.",
+        "id": 21491,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Interpersonal Skills",
+            "id": 13
+          }
+        ]
+      },
+      {
+        "description": "Communicate effectively both in written and spoken form with colleague, other professionals and community.",
+        "id": 21492,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Communication Skills",
+            "id": 14
+          }
+        ]
+      },
+      {
+        "description": "Apply information technology for recording accounting information; and engage in life-long learning.",
+        "id": 21493,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Digital Skills",
+            "id": 15
+          }
+        ]
+      },
+      {
+        "description": "Demonstrate skills to identify financial information in assisting decision making process.",
+        "id": 21494,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Numeracy Skills",
+            "id": 16
+          }
+        ]
+      },
+      {
+        "description": "Develop soft-skills for self-development in terms of independent and intellectual learning for career development. ",
+        "id": 21495,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Personal Skills",
+            "id": 18
+          }
+        ]
+      },
+      {
+        "description": "Practice managerial skills in decision making and engage in entrepreneurial activities.",
+        "id": 21496,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Entrepreneurial Skills",
+            "id": 19
+          }
+        ]
+      },
+      {
+        "description": "Develop the exercise of professional skills and responsibilities: integrity, professional conduct (professionalism) and standards of conduct.",
+        "id": 21497,
+        "mapped_malaysian_qualification_framework_learning_outcomes": [
+          {
+            "description": "Ethics and Professionalism",
+            "id": 20
+          }
+        ]
+      }
+    ],
+    "version": 1
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "academicians": [],
+    "assessment_scheme_code": "E60P30PN10",
+    "can_be_edited": false,
+    "credit": 3,
+    "effective_date": "Sun, 05 Jan 2020 16:00:00 GMT",
+    "id": 389,
+    "lab_practical_hour_per_week": 0,
+    "lecture_hour_per_week": 14,
+    "module": {
+      "cluster": "SAF",
+      "code": "AQ004-3-3-FOACCLE",
+      "title": "Forensic Accounting and Legal Environment"
+    },
+    "other_hour_per_week": 0,
+    "software_requirements": "Nil",
+    "synopsis": null,
+    "tutorial_hour_per_week": 28,
+    "version": "VD1"
+  },
+  {
+    "academicians": [],
+    "assessment_scheme_code": "E50G50",
+    "can_be_edited": false,
+    "credit": 160,
+    "effective_date": "Thu, 19 Sep 2019 16:00:00 GMT",
+    "id": 197,
+    "lab_practical_hour_per_week": 0,
+    "lecture_hour_per_week": 24,
+    "module": {
+      "cluster": "FDN",
+      "code": "ABUS008-4-1-EAP",
+      "title": "English for Academic Purposes"
+    },
+    "other_hour_per_week": 0,
+    "software_requirements": "",
+    "synopsis": null,
+    "tutorial_hour_per_week": 24,
+    "version": "VD1"
+  },
+  {
+    "academicians": [],
+    "assessment_scheme_code": "E50P30PN20",
+    "can_be_edited": false,
+    "credit": 4,
+    "effective_date": "Sat, 31 Aug 2019 16:00:00 GMT",
+    "id": 285,
+    "lab_practical_hour_per_week": 0,
+    "lecture_hour_per_week": 28,
+    "module": {
+      "cluster": "FDN",
+      "code": "ABUS009-4-1-FEP",
+      "title": "Fundamentals of Entrepreneurship"
+    },
+    "other_hour_per_week": 0,
+    "software_requirements": "N/A",
+    "synopsis": null,
+    "tutorial_hour_per_week": 28,
+    "version": "VD1"
+  },
+  {
+    "academicians": [],
+    "assessment_scheme_code": "E50G30T20",
+    "can_be_edited": false,
+    "credit": 4,
+    "effective_date": "Thu, 19 Sep 2019 16:00:00 GMT",
+    "id": 184,
+    "lab_practical_hour_per_week": 0,
+    "lecture_hour_per_week": 38,
+    "module": {
+      "cluster": "FDN",
+      "code": "ABUS002-4-1-MBUS",
+      "title": "Managing Business"
+    },
+    "other_hour_per_week": 0,
+    "software_requirements": "N/A",
+    "synopsis": null,
+    "tutorial_hour_per_week": 18,
+    "version": "VD1"
+  }
+]

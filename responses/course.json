@@ -1,0 +1,43 @@
+{
+  "programs": [
+    {
+      "code": "APU-CE",
+      "school": {
+        "code": "SoE",
+        "head_of_school": "ka.fei",
+        "name": "School of Engineering"
+      },
+      "title": "Bachelor of Computer Engineering with Honours"
+    },
+    {
+      "code": "APU-CGD",
+      "school": null,
+      "title": "BSc (Hons) in Computer Games Development"
+    },
+    {
+      "code": "APU-CS",
+      "school": null,
+      "title": "BSc (Hons) in Computer Science"
+    },
+    {
+      "code": "APU-CS(AI)",
+      "school": null,
+      "title": "Bachelor of Computer Science (Hons) (Artificial Intelligence)"
+    },
+    {
+      "code": "APU-CS(CYB)",
+      "school": null,
+      "title": "BSc (Hons) in Computer Science (Cyber Security)"
+    },
+    {
+      "code": "ACC",
+      "school": null,
+      "title": "Diploma in Accounting"
+    },
+    {
+      "code": "APU-AF",
+      "school": null,
+      "title": "BA (Hons) in Accounting and Finance"
+    }
+  ]
+}
